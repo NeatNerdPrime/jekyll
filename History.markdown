@@ -22,6 +22,7 @@
   * Add documentation for Sass configuration options (#8587)
   * Add formcarry to forms section (#8471)
   * Add step to set SDKROOT (#8478)
+  * Improve the &#34;Markdown Options&#34; Docs (#8681)
 
 ### Bug Fixes
 
@@ -29,6 +30,7 @@
   * fix: pin rubocop to 1.12 due to error with ruby 2.4 (#8651)
   * Revert &#34;style: run rubocop -a&#34; (#8676)
   * Load Jekyll plugins from BUNDLE_GEMFILE location (#8585)
+  * fix(security):  CVE-2021-28834 (#8680)
 
 ### Development Fixes
 
